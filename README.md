@@ -19,10 +19,6 @@
 
 ---
 
-
-
----
-
 ## 🛠️ Skills & Tools
 
 ### 💻 Programming
@@ -61,39 +57,14 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Business Analytics Dashboard
-
-**Tech:** Python • SQL • Power BI
-
-* Analyzed business data to identify trends and patterns
-* Created interactive dashboards and visual reports
-* Generated data-driven insights to support decision making
-
-🔗 **[View Project](#)**
+### 💻 Full Stack Development
+A full-stack skill assessment platform featuring separate Admin and User modules for question management, assessments, user participation, and automated result evaluation. Built with responsive interfaces, backend integration, database connectivity, CRUD operations, and session management.
 
 ---
 
-### 🤖 AI/ML Project
+### 🌊 Flood Management System
 
-**Tech:** Python • Machine Learning
-
-* Developed a machine learning solution for a real-world problem
-* Performed data preprocessing and analysis
-* Evaluated model performance and generated predictions
-
-🔗 **[View Project](#)**
-
----
-
-### 🌐 Web Application
-
-**Tech:** HTML • CSS • JavaScript • Node.js • MySQL
-
-* Developed a responsive web application
-* Implemented database integration and dynamic functionality
-* Focused on usability and clean interface design
-
-🔗 **[View Project](#)**
+An IoT-based water level monitoring system designed for real-time monitoring and early flood alerts in agricultural areas. The system supports data-driven irrigation planning and promotes sustainable farming and improved crop management.
 
 ---
 
@@ -105,8 +76,6 @@
 
 🚀 **Built and deployed multiple technology projects**
 
-
----
 
 ---
 
