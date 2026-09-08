@@ -88,8 +88,6 @@ An IoT-based water level monitoring system designed for real-time monitoring and
 ---
 
 
----
-
 ## 🌱 What I'm Learning
 
 ```text
@@ -99,7 +97,6 @@ An IoT-based water level monitoring system designed for real-time monitoring and
 🤖 Artificial Intelligence & Machine Learning
 💡 Business & Analytical Problem Solving
 ```
-
 ---
 
 ## 🤝 Connect With Me
