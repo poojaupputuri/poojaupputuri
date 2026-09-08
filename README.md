@@ -10,18 +10,16 @@
 
 ## 👩‍💻 About Me
 
+* 🎓 B.Tech CSE student at Vel Tech R&D Institute of Science and Technology, Chennai (Expected 2027)
+* 💼 Former Full Stack intern at DIGIT IT
 * 💡 Passionate about **Data Analytics, Artificial Intelligence, and Technology**
 * 📊 Interested in transforming **data into meaningful insights and solutions**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 💻 Experienced with **Python, Java, SQL, JavaScript, and Web Technologies**
-* 🚀 Enjoy building **practical, real-world projects**
-* 🧠 Constantly learning and improving my **analytical and problem-solving skills**
+* 🏆 2nd Prize in Technical Quiz at COMSIC'2K26 conducted by SRM
 
 ---
 
-## 🔭 Currently Focusing On
 
-> Sharpening my skills in **Python**, **SQL**, **Data Analytics**, **Power BI**, **Excel**, and **AI/ML**.
 
 ---
 
@@ -41,7 +39,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
 </p>
 
-**SQL • Data Analysis • Excel • Power BI • Data Visualization**
 
 ### 🌐 Web Development
 
@@ -59,7 +56,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
 </p>
 
-**Git • GitHub • VS Code**
 
 ---
 
@@ -109,7 +105,6 @@
 
 🚀 **Built and deployed multiple technology projects**
 
-📚 **Continuous learning in AI, Data Analytics & Software Development**
 
 ---
 
