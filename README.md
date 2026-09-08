@@ -15,7 +15,7 @@
 * 💡 Passionate about **Data Analytics, Artificial Intelligence, and Technology**
 * 📊 Interested in transforming **data into meaningful insights and solutions**
 * 💻 Experienced with **Python, Java, SQL, JavaScript, and Web Technologies**
-* 🏆 2nd Prize in Technical Quiz at COMSIC'2K26 conducted by SRM
+* 🏆 2nd Prize in Technical Quiz at COMSIC'2K26
 
 ---
 
@@ -108,13 +108,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojaupputuri&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaupputuri&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" height="170"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -125,11 +118,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojaupputuri&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
