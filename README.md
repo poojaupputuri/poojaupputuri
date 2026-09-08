@@ -94,8 +94,7 @@ An IoT-based water level monitoring system designed for real-time monitoring and
 
 ```text
 📊 Data Analytics
-🐍 Python
-🗄️ SQL & Databases
+🗄️ Databases
 📈 Power BI & Data Visualization
 🤖 Artificial Intelligence & Machine Learning
 💡 Business & Analytical Problem Solving
@@ -105,14 +104,12 @@ An IoT-based water level monitoring system designed for real-time monitoring and
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/pooja-upputuri" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="mailto:poojaupputuri06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
-
-📫 **Email:** [poojaupputuri06@gmail.com](mailto:poojaupputuri06@gmail.com)
-
+<a href="https://linkedin.com/in/pooja-upputuri" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 ---
 
 <p align="center">
