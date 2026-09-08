@@ -110,8 +110,8 @@ An IoT-based water level monitoring system designed for real-time monitoring and
 <a href="https://linkedin.com/in/pooja-upputuri" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
----
 
+---
 <p align="center">
-  <i>✨ Turning data into insights, ideas into solutions, and learning into impact.</i>
+  <i>💡 Driven by curiosity, powered by data, focused on impact.</i>
 </p>
